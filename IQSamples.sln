@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookRecurrenceTestProject", "OutlookRecurrenceTestProject\OutlookRecurrenceTestProject.csproj", "{87CBD8FB-6BE9-440C-852A-C973C51C95CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CBD8FB-6BE9-440C-852A-C973C51C95CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CBD8FB-6BE9-440C-852A-C973C51C95CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CBD8FB-6BE9-440C-852A-C973C51C95CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CBD8FB-6BE9-440C-852A-C973C51C95CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54BEE52-C2BB-48FA-B8DD-A17DC137C3A9}
+	EndGlobalSection
+EndGlobal
